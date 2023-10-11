@@ -198,8 +198,8 @@ margin-right: 5px;
     margin-top: 15px;
 }
 .back{
-    width: 1920px;
-    height: 1920px;
+    width: 1990px;
+    height: 1990px;
     background: #000;
 }
 .money{
@@ -431,3 +431,21 @@ margin-right: 5px;
     margin: 0 auto;
     margin-top: 40px;
     }
+    .secondlogo{
+        margin: 0 auto;
+        margin-top: -105px;
+        margin-left: 950px;
+              
+    }
+    .box7{
+        display: flex;
+    width: 1200px;
+    padding: 70px 80px 50px 80px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border-radius: 15px;
+    background: linear-gradient(90deg, #D91149 23.53%, #4F1941 99.97%);
+        margin-left: 320px;
+        margin-top: -100px;
+}
