@@ -1,6 +1,8 @@
 body{
     background: url(../img/bgHero\ 1.png), lightgray 50% / cover no-repeat;color: #000;
     background-repeat: no-repeat;
+   
+    
     
     
    
@@ -447,5 +449,33 @@ margin-right: 5px;
     border-radius: 15px;
     background: linear-gradient(90deg, #D91149 23.53%, #4F1941 99.97%);
         margin-left: 320px;
-        margin-top: -100px;
+        margin-top: -750px;
+}
+.text-z{
+    color: #FFF;
+    text-align: center;
+    font-family: Libre Franklin;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    margin-top: -50px;
+}
+.text-0{
+    color: #FFF;
+font-family: Libre Franklin;
+font-size: 17px;
+font-style: normal;
+font-weight: 400;
+line-height: 38px;
+
+margin-left: 550px;
+margin-top: -65px
+
+}
+.fundos{
+    width: 1920px;
+height: 648px;
+flex-shrink: 0;
+background: #270417;
 }
