@@ -532,3 +532,8 @@ line-height: 26px;
 margin-left: 1000px;
 margin-top: 20px;
 }
+.olho{
+    width: 113px;
+    height: 58.892px;
+    flex-shrink: 0;
+}
