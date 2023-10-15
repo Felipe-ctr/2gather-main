@@ -533,8 +533,10 @@ margin-left: 1000px;
 margin-top: 20px;
 }
 .olho{
-    background: url(../);
+    background: url(../img/olho.svg);
     width: 113px;
     height: 58.892px;
     flex-shrink: 0;
+    margin-left: 700px;
+    margin-top: -370px;
 }
