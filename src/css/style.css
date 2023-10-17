@@ -586,6 +586,7 @@ margin-top: 10px;
     border-radius: 15px;
     background: var(--Roxo, #120414);
     margin-left: 950px;
+    margin-top: -20px;
 }
 .b{
     width: 692px;
@@ -614,8 +615,44 @@ margin-top: 10px;
     margin-left: 950px;
     margin-top: 20px;
 }
-
-
+.text-a{
+    color: #D91149;
+    font-family: Libre Franklin;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    text-align: center;
+    margin-top: 30px;
+}
+.text-b{
+    color: #D91149;
+    font-family: Libre Franklin;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    text-align: center;
+    
+}
+.text-c{
+    color: #D91149;
+    ont-family: Libre Franklin;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    text-align: center;
+}
+.text-d{
+    color: #D91149;
+    font-family: Libre Franklin;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    text-align: center;
+}
 
 
   
