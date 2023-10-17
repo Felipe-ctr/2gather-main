@@ -449,7 +449,7 @@ margin-right: 5px;
     border-radius: 15px;
     background: linear-gradient(90deg, #D91149 23.53%, #4F1941 99.97%);
         margin-left: 320px;
-        margin-top: -750px;
+        margin-top: -1100px;
 }
 .text-z{
     color: #FFF;
@@ -474,17 +474,21 @@ margin-top: -65px
 
 }
 .fundos{
-    width: 1920px;
-height: 648px;
+    width: 1990px;
+height: 1000px;
 flex-shrink: 0;
 background: #270417;
 }
 .imagem{
-    background: url(../img/front.png), lightgray 50% / cover no-repeat;
-    width: 508px;
-    height: 470px;
+    background: url(../img/front.png), #270417 50% / cover no-repeat;
+    width: 500px;
+    height: 490px;
     flex-shrink: 0;
     margin-left: 325px;
+    
+    ;
+    
+    
 
 }
 .superior{
@@ -496,7 +500,7 @@ background: #270417;
     font-weight: 600;
     line-height: normal;
     margin-left: 1000px;
-    margin-top:     -100px;
+    margin-top:     -50px;
 }
 .inferior1{
     color: #FFF;
@@ -538,5 +542,12 @@ margin-top: 10px;
     height: 58.892px;
     flex-shrink: 0;
     margin-left: 700px;
-    margin-top: -370px;
+    margin-top: -350px;
 }
+.front{
+    background:#000;
+   width: 1920px;
+   height: 1920px;
+}
+
+  
