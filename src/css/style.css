@@ -549,5 +549,43 @@ margin-top: 10px;
    width: 1920px;
    height: 1920px;
 }
+.inicio{
+    color: #FFF;
+    font-family: Libre Franklin;
+    font-size: 38px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    margin-left: 50px;
+    
+}
+.meio{
+    color: #D91149;
+    font-family: Libre Franklin;
+    font-size: 38px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    margin-left: 50px;
+    
+}
+.final{
+    color: #FFF;
+    font-family: Libre Franklin;
+    font-size: 38px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    margin-left: 50px;
+    
+}
+.a{
+    width: 692px;
+    height: 204px;
+    flex-shrink: 0;
+    border-radius: 15px;
+    background: var(--Roxo, #120414);
+    margin-left: 950px;
+}
 
   
