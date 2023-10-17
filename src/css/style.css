@@ -587,5 +587,35 @@ margin-top: 10px;
     background: var(--Roxo, #120414);
     margin-left: 950px;
 }
+.b{
+    width: 692px;
+    height: 204px;
+    flex-shrink: 0;
+    border-radius: 15px;
+    background: var(--Roxo, #120414);
+    margin-left: 950px;
+    margin-top: 10px;
+}
+.c{
+    width: 692px;
+    height: 204px;
+    flex-shrink: 0;
+    border-radius: 15px;
+    background: var(--Roxo, #120414);
+    margin-left: 950px;
+    margin-top: 20px;
+}
+.d{
+    width: 692px;
+    height: 204px;
+    flex-shrink: 0;
+    border-radius: 15px;
+    background: var(--Roxo, #120414);
+    margin-left: 950px;
+    margin-top: 20px;
+}
+
+
+
 
   
