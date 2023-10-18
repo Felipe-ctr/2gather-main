@@ -689,6 +689,32 @@ margin-top: 10px;
     line-height: 150%; 
     text-align: center;
 }
+.linhas-a{
+    background: var(--Gradient, linear-gradient(90deg, #D91149 23.53%, #4F1941 99.97%));
+    width: 1920px;
+    height: 481px;
+    flex-shrink: 0;
+}
+.complemento-a{
+    width: 1000px;
+    height: 1000px;
+    flex-shrink: 0;
+    border-radius: 1000px;
+    border: 1px solid rgba(255, 255, 255, 0.15);
+}
+.complemento-b{
+    width: 1200px;
+    height: 1200px;
+    flex-shrink: 0;
+    border-radius: 1200px;
+    border: 1px solid rgba(255, 255, 255, 0.10);
+}
+.complemento-c{
+    width: 1900px;
+    height: 1900px;
+    flex-shrink: 0;border-radius: 1900px;
+    border: 1px solid rgba(255, 255, 255, 0.05);
+}
 
 
   
