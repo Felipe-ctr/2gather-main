@@ -694,27 +694,26 @@ margin-top: 10px;
     width: 1920px;
     height: 481px;
     flex-shrink: 0;
-}
+}  
 .complemento-a{
-    width: 1000px;
-    height: 1000px;
+    width: 1332px;
+    height: 1332px;
     flex-shrink: 0;
-    border-radius: 1000px;
+    border-radius: 1332px;
     border: 1px solid rgba(255, 255, 255, 0.15);
+    display: flex;
+    justify-content: center;
 }
-.complemento-b{
-    width: 1200px;
-    height: 1200px;
-    flex-shrink: 0;
-    border-radius: 1200px;
-    border: 1px solid rgba(255, 255, 255, 0.10);
+.texto{
+    color: #FFF;
+    text-align: center;
+    font-family: Libre Franklin;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    
+    
 }
-.complemento-c{
-    width: 1900px;
-    height: 1900px;
-    flex-shrink: 0;border-radius: 1900px;
-    border: 1px solid rgba(255, 255, 255, 0.05);
-}
-
 
   
