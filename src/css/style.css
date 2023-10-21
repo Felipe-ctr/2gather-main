@@ -200,8 +200,8 @@ margin-right: 5px;
     margin-top: 15px;
 }
 .back{
-    width: 1990px;
-    height: 1990px;
+    width: 1920px;
+    height: 1920px;
     background: #000;
 }
 .money{
@@ -474,8 +474,8 @@ margin-top: -65px
 
 }
 .fundos{
-    width: 1990px;
-height: 1000px;
+    width: 1920px;
+height: 1920px;
 flex-shrink: 0;
 background: #270417;
 }
@@ -712,8 +712,88 @@ margin-top: 10px;
     font-style: normal;
     font-weight: 600;
     line-height: normal;
+    margin-top: -200px;
     
-    
+}
+.box-2{
+    display: flex;
+    padding: 10px 20px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border-radius: 50px;
+    border: 0.5px solid #FFF;
+    height: 22px;
+    width: 115px;
+    margin-left: 300px;
+    margin-top: 40px;
+}
+
+
+.box-4{
+    display: flex;
+    padding: 10px 20px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border-radius: 50px;
+    border: 0.5px solid #FFF;
+    height: 22px;
+    width: 115px;
+    margin-left: 500px;
+    margin-top: -125px;
+}
+.box-8{
+    display: flex;
+    padding: 10px 20px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border-radius: 50px;
+    border: 0.5px solid #FFF;
+    height: 22px;
+    width: 115px;
+    margin-left: 700px;
+    margin-top: -45px;
+}
+.box-5{
+    display: flex;
+    padding: 10px 20px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border-radius: 50px;
+    border: 0.5px solid #FFF;
+    height: 22px;
+    width: 115px;
+    margin-left: 300px;
+    margin-top: 40px;
+}
+.box-6{
+    display: flex;
+    padding: 10px 20px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border-radius: 50px;
+    border: 0.5px solid #FFF;
+    height: 22px;
+    width: 115px;
+    margin-left: 300px;
+    margin-top: 40px;
+}
+.box-3{
+    display: flex;
+    padding: 10px 20px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border-radius: 50px;
+    border: 0.5px solid #FFF;
+    height: 22px;
+    width: 115px;
+    margin-left: 300px;
+    margin-top: 40px;
 }
 
   
