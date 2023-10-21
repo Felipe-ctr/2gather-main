@@ -712,7 +712,7 @@ margin-top: 10px;
     font-style: normal;
     font-weight: 600;
     line-height: normal;
-    margin-top: -200px;
+    margin-top: -300px;
     
 }
 .box-2{
@@ -742,6 +742,8 @@ margin-top: 10px;
     width: 115px;
     margin-left: 500px;
     margin-top: -125px;
+    height: 22px;
+    width: 88px;
 }
 .box-8{
     display: flex;
@@ -752,7 +754,7 @@ margin-top: 10px;
     border-radius: 50px;
     border: 0.5px solid #FFF;
     height: 22px;
-    width: 115px;
+    width: 111px;
     margin-left: 700px;
     margin-top: -45px;
 }
@@ -765,9 +767,10 @@ margin-top: 10px;
     border-radius: 50px;
     border: 0.5px solid #FFF;
     height: 22px;
-    width: 115px;
-    margin-left: 300px;
-    margin-top: 40px;
+    width: 142px;
+    margin-left: 900px;
+    margin-top: -45px;
+
 }
 .box-6{
     display: flex;
@@ -777,10 +780,11 @@ margin-top: 10px;
     gap: 10px;
     border-radius: 50px;
     border: 0.5px solid #FFF;
-    height: 22px;
-    width: 115px;
-    margin-left: 300px;
+    
+    margin-left: 430px;
     margin-top: 40px;
+    height: 22px;
+    width: 204px;
 }
 .box-3{
     display: flex;
@@ -790,10 +794,11 @@ margin-top: 10px;
     gap: 10px;
     border-radius: 50px;
     border: 0.5px solid #FFF;
-    height: 22px;
-    width: 115px;
-    margin-left: 300px;
+    
+    margin-left: 750px;
     margin-top: 40px;
+    height: 22px;
+    width: 134px;
 }
 
   
