@@ -721,7 +721,7 @@ margin-top: 10px;
     font-style: normal;
     font-weight: 600;
     line-height: normal;
-    margin-top: -300px;
+    margin-top:-400px;
     
 }
 .box-2{
@@ -863,4 +863,10 @@ font-style: normal;
 font-weight: 400;
 line-height: normal;
 }
+.fundo5{
+    background: #000;;
+    width: 1920px;
+    height: 11293px;
+}
+
   
