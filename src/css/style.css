@@ -272,7 +272,7 @@ margin-right: 5px;
     line-height: normal;
     margin: 0 auto;
     text-align: center;
-    margin-top: -320px;
+    margin-top: -300px;
     margin-right: 690px;
    
    
@@ -300,27 +300,27 @@ margin-right: 5px;
     height: 268px;
     stroke-width: 1px;
     stroke: #d91149;
-   margin-top: 150px;
+   margin-top: 30px;
    
     
 
 }
 .backk{ 
-  margin-top: -450px;
+  margin-top: -650px;
   float: right;
-  margin-right: 340px;
-  margin-left: -250px;
+  margin-right: 410px;
+  ;
 
 }
 .backkk{ 
-    margin-top: -450px;
+    margin-top: -650px;
     float: right;
-   margin-right: -100px;
+   margin-right: -50px;
   }
   .svg{
     float: right;
-    margin-top: -450px;
-        margin-right: 320px;
+    margin-top: -650px;
+        margin-right: 380px;
         z-index: 2;
   }
   .ksvg{
@@ -335,7 +335,7 @@ margin-right: 5px;
 .msvg{
     float: right;
     margin-top: -310px;
-    margin-right:723px;
+    margin-right:523px;
 
 }
 .lbox{
@@ -344,11 +344,16 @@ margin-right: 5px;
     border-radius: 15px;
     border: 1px solid #4f1941;
     
-    margin-top: -290px;
+    margin-top: -480px;
     float: right;
-    margin-right: -200px;
+    margin-right: -230px;
     z-index: -1;
     
+}
+.svg3{
+    margin-top: -40px;
+    margin-left: 198px;
+
 }
 .fundo{
     width: 583px;
@@ -366,9 +371,9 @@ margin-right: 5px;
     border-radius: 15px;
     border: 1px solid #4f1941;
     
-    margin-top: -290px;
+    margin-top: -480px;
     float: right;
-    margin-right: 225px;
+    margin-right: 200px;
     z-index: -1;
 
 }
@@ -378,7 +383,7 @@ margin-right: 5px;
     border-radius: 15px;
     border: 1px solid #4f1941;
     
-    margin-top: -290px;
+    margin-top: -480px;
     float: right;
     margin-right: 650px;
     z-index: -1;
@@ -397,8 +402,9 @@ margin-right: 5px;
     font-style: normal;
     font-weight: 400;
     line-height: 26px; 
-    margin: 0 auto;
-    margin-top: 40px;
+    margin-top: 60px;
+    margin-left: 75px;    
+    
     
     }
     .text-mbox{
