@@ -856,12 +856,12 @@ line-height: normal;
 }
 .text-box-6{
     color: #FFF;
-text-align: center;
-font-family: Libre Franklin;
-font-size: 18px;
-font-style: normal;
-font-weight: 400;
-line-height: normal;
+    text-align: center;
+    font-family: Libre Franklin;
+     font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
 }
 .fundo5{
     background: #000;;
@@ -922,5 +922,77 @@ line-height: normal;
     text-transform: uppercase;
     margin-left: 480px;
 }
+.inicial{
+    color: #FFF;
+    text-align: center;
+    font-family: Libre Franklin;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%; 
+    margin-top: 100px;
+    margin-left: -1050px;
+
+}
+.inicialm{
+    color: #FFF;
+    font-family: Libre Franklin;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 150%;
+    margin-left: 620px;
+    margin-top: -25px;
+}
+.finala{
+    color: #FFF;
+    text-align: center;
+    font-family: Libre Franklin;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%; 
+    margin-top: 150px;
+    margin-right: 1340px;
+}
+.mediom{
+    color: #D91149;
+    font-family: Libre Franklin;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-left: 335px;
+    margin-top: -25px;
+
+}
+.mediop{
+    color: #FFF;
+    text-align: center;
+    font-family: Libre Franklin;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%; 
+    margin-top: -40px;
+    margin-right: 300px;
+    
+
+}
+.finalm{
+    color: #FFF;
+    font-family: Libre Franklin;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 150%;
+    margin-left: 1090px;
+    margin-top: -25px;
+
+}
+
+
+
+
 
   
