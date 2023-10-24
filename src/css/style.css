@@ -868,5 +868,59 @@ line-height: normal;
     width: 1920px;
     height: 11293px;
 }
+.entre{
+    display: inline-flex;
+    padding: 15px 30px;
+    justify-content: center;
+    align-items: center;
+    gap: 35px;
+    border-radius: 60px;
+    background: linear-gradient(90deg, #D91149 23.53%, #4F1941 99.97%);
+    margin-left: 450px;
+}
+.entre-text{
+    color: #FFF;
+    font-family: Libre Franklin;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 150%; 
+    text-transform: uppercase;
+}
+.entre-button{
+    width: 55px;
+    height: 35px;
+}
+.text4{
+    color: #FFF;
+    text-align: center;
+    font-family: Libre Franklin;
+    font-size: 38px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    margin-top: 300px;
+    margin-left: -680px;
+}
+.text4medio{
+    color: #D91149;
+    font-family: Libre Franklin;
+    font-size: 38px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    margin-left: 890px;
+    margin-top: -45px;
+}
+.text4line{
+    color: rgba(255, 255, 255, 0.60);
+    font-family: Libre Franklin;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 200%;
+    text-transform: uppercase;
+    margin-left: 480px;
+}
 
   
