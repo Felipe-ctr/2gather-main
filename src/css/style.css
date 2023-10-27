@@ -1469,7 +1469,7 @@ line-height: normal;
     font-weight: 600;
     line-height: normal;
     width: 1200px;
-    margin-left: 200px;
+    margin: 0 auto;
     
 }
 .titulo-vermelho{
@@ -1479,7 +1479,7 @@ line-height: normal;
     font-style: normal;
     font-weight: 600;
     line-height: normal;
-    margin-left: 1180px;
+    margin-left: 1330px;
     margin-top: -45px;
 }
 .box-gravaçao{
@@ -1550,7 +1550,76 @@ line-height: normal;
 
 }
 .text-vermelho-folhas{
-    
+    color: #D91149;
+    font-family: Libre Franklin;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    width: 386px;
+    height: 100px;
+    flex-shrink: 0;
+    line-height: 30px;
+    margin-left: 69%;
+    margin-top: 100px;
+}
+.text-branco-folhas{
+    color: #FFF;
+    text-align: center;
+    font-family: Libre Franklin;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px; 
+    margin-left: 68%;
+    width: 289px;
+    height: 100px;
+    flex-shrink: 0;
+    margin-top: -50px;
+
+}
+.text-conhecimento{
+    color: #FFF;
+    text-align: center;
+    font-family: Libre Franklin;
+    font-size: 38px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    width: 996px;
+    margin: 0 auto;
+    margin-top: 400px;
+}
+.java{
+    width: 1917px;
+    height: 504px;
+    flex-shrink: 0;
+}
+.fotos1{
+    width: 320.498px;
+    height: 425px;
+    flex-shrink: 0;
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0.00) 31.23%, #000 116.71%), url(../img/WendelCarvalho.png), lightgray 50% / cover no-repeat;
+    margin: 0 auto;
+
+}
+.fotos2{
+    width: 318.502px;
+    height: 350px;
+    flex-shrink: 0;
+    opacity: 0.5;
+    background: linear-gradient(180deg, rgba(0, 2, 11, 0.00) 31.23%, #00020B 131.35%), url(../img/Ciça\ Rego\ Macedo.png), lightgray 50% / cover no-repeat;
+    margin-left: 1118px;
+    margin-top: -350px;
+}
+.fotos3{
+    width: 318.502px;
+    height: 350px;
+    flex-shrink: 0;
+    opacity: 0.5;
+    background: linear-gradient(180deg, rgba(0, 2, 11, 0.00) 31.23%, #00020B 131.35%), url(../img/Mairo\ Vergara.png), lightgray 50% / cover no-repeat;
+    margin-left: 1437px;
+    margin-top: -350px;
 }
 
    
