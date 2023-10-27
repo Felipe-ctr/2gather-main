@@ -866,7 +866,7 @@ line-height: normal;
 .fundo5{
     background: #000;;
     width: 1920px;
-    height: 11293px;
+    height: 2900px;
 }
 .entre{
     display: inline-flex;
@@ -1294,6 +1294,269 @@ line-height: normal;
     width: 468px;
     height: 95px;
 }
+
+
+.nota10{
+    width: 1918px;
+    height: 717px;
+    flex-shrink: 0;
+    background: url(../img/bg-contasPedro\ 1.png);
+}
+.entre-em-contato{
+    display: inline-flex;
+    padding: 15px 30px;
+    justify-content: center;
+    align-items: center;
+    gap: 35px;
+    border-radius: 60px;
+    background: linear-gradient(90deg, #D91149 23.53%, #4F1941 99.97%);
+    margin-top: -1200px;
+    margin-left: 800px;}
+    .entre-em-contato-text{
+    color: #FFF;
+     font-family: Libre Franklin;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 150%;
+    text-transform: uppercase;
+    }
+.aluno{
+    color: #FFF;
+
+
+    font-family: Libre Franklin;
+    font-size: 38px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    width: 362px;
+    margin-left: 400px;
+    margin-top: 100px ;
+}
+.aluno-2{
+    color: #FFF;
+    text-align: right;
+    font-family: Libre Franklin;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 150%;
+    text-transform: uppercase;
+    width: 387px;
+    margin-left: 1150px;
+    margin-top: -100px;
+
+}
+.text-aluno{
+    width: 386px;
+    height: 265px;
+    flex-shrink: 0;
+    color: #FFF;
+    font-family: Libre Franklin;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+    margin-left: 400px;
+    margin-top: 100px;
+}
+.box-deixamos{
+    display: flex;
+    width: 692px;
+    padding: 30px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border-radius: 10px;
+    background: rgba(18, 4, 20, 0.70);
+    margin-left: 1000px;
+    margin-top: -350px;
+}
+.ponto-deixaremos{
+    color: #D91149;
+    font-family: Libre Franklin;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px; 
+    margin-top: -25px;
+   
+}
+.text-deixaremos{
+    color: #FFF;
+    font-family: Libre Franklin;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+    width: 587px;
+    flex-shrink: 0;
+}
+.box-nossos{
+    display: flex;
+    width: 692px;
+    padding: 30px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border-radius: 10px;
+    background: rgba(18, 4, 20, 0.70);
+    margin-left: 1000px;
+    margin-top: 40px;
+}
+.ponto-nossos{
+    color: #D91149;
+    font-family: Libre Franklin;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px; 
+    margin-top: -25px;
+}
+.text-nossos{
+    color: #FFF;
+    font-family: Libre Franklin;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+    width: 587px;
+    flex-shrink: 0;
+}
+.box-levamos{
+    display: flex;
+    width: 692px;
+    padding: 30px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border-radius: 10px;
+    background: rgba(18, 4, 20, 0.70);
+    margin-left: 1000px;
+    margin-top: 40px;
+}
+.ponto-levamos{
+    color: #D91149;
+    font-family: Libre Franklin;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px; 
+    margin-top: -25px;
+}
+.text-levamos{
+    color: #FFF;
+    font-family: Libre Franklin;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+    width: 587px;
+    flex-shrink: 0; 
+}
+.fundos6{
+    width: 1920px;
+    height: 1920px;
+    background: #000;
+}
+.titulo-seu-negocio{
+    color: #FFF;
+    text-align: center;
+    font-family: Libre Franklin;
+    font-size: 38px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    width: 1200px;
+    margin-left: 200px;
+    
+}
+.titulo-vermelho{
+    color: #D91149;
+    font-family: Libre Franklin;
+    font-size: 38px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    margin-left: 1180px;
+    margin-top: -45px;
+}
+.box-gravaçao{
+    width: 590px;
+    height: 366px;
+    flex-shrink: 0;
+    border-radius: 15px;
+    background: var(--Roxo, #120414);
+    margin-top: 300px;
+    margin-left: 430px;
+}
+.mockup{
+    width: 414px;
+    height: 251px;
+    flex-shrink: 0;
+    background: url(../img/mockup01\ 1.png), #120414 2%/ cover no-repeat;
+    margin-top: -430px;
+    margin-left: 500px;
+    
+}
+.text-mockup{
+    color: #D91149;
+    font-family: Libre Franklin;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    width: 386px;
+    height: 100px;
+    flex-shrink: 0;
+    line-height: 30px;
+    margin-left: 590px;
+    margin-top: -140px;
+    
+}
+.text-mockup-0{
+    color: #FFF;
+    text-align: center;
+    font-family: Libre Franklin;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px; 
+    width: 386px;
+    height: 100px;
+    flex-shrink: 0;
+    margin-left: 550px;
+    margin-top: -80px;
+    
+}
+.box-folhas{
+    width: 590px;
+    height: 366px;
+    flex-shrink: 0;
+    border-radius: 15px;
+    background: var(--Roxo, #120414);
+    margin-left: 60%;
+    margin-top: -165px;
+}
+.mockup00{
+   background: url(../img/mockup02\ 1.png) #120414 50% / cover no-repeat;
+   width: 328px;
+    height: 265px;
+    flex-shrink: 0;
+    margin-left: 67% ;
+    margin-top: -500px;
+
+
+}
+.text-vermelho-folhas{
+    
+}
+
+   
+
+
+
 
 
 
