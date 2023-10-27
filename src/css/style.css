@@ -483,7 +483,7 @@ margin-top: -65px
 
 }
 .fundos{
-    width: 1920px;
+    width: 2080px;
 height: 1920px;
 flex-shrink: 0;
 background: #270417;
@@ -555,7 +555,7 @@ margin-top: 10px;
 }
 .front{
     background:#000;
-   width: 1920px;
+   width: 2080px;
    height: 1920px;
 }
 .inicio{
@@ -865,7 +865,7 @@ line-height: normal;
 }
 .fundo5{
     background: #000;;
-    width: 1920px;
+    width: 2080px;
     height: 2900px;
 }
 .entre{
@@ -1456,7 +1456,7 @@ line-height: normal;
     flex-shrink: 0; 
 }
 .fundos6{
-    width: 1920px;
+    width: 2080px;
     height: 1920px;
     background: #000;
 }
@@ -1620,6 +1620,15 @@ line-height: normal;
     background: linear-gradient(180deg, rgba(0, 2, 11, 0.00) 31.23%, #00020B 131.35%), url(../img/Mairo\ Vergara.png), lightgray 50% / cover no-repeat;
     margin-left: 1437px;
     margin-top: -350px;
+}
+.fotos4{
+    width: 320.498px;
+    height: 350px;
+    flex-shrink: 0;
+    opacity: 0.5;
+    background: linear-gradient(180deg, rgba(0, 2, 11, 0.00) 31.23%, #00020B 131.35%), url(../img/Ícaro\ de\ Carvalho.png), lightgray 50% / cover no-repeat;
+    margin-top: -350px;
+    margin-left: 1756px;
 }
 
    
