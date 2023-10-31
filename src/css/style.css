@@ -1,6 +1,7 @@
 body{
     background: url(../img/bgHero\ 1.png), lightgray 50% / cover no-repeat;color: #000;
     background-repeat: no-repeat;
+    height: 2080px;
    
     
     
@@ -200,7 +201,7 @@ margin-right: 5px;
     margin-top: 15px;
 }
 .back{
-    width: 1920px;
+    width: 2080px;
     height: 1920px;
     background: #000;
 }
@@ -700,7 +701,7 @@ margin-top: 10px;
 }
 .linhas-a{
     background: var(--Gradient, linear-gradient(90deg, #D91149 23.53%, #4F1941 99.97%));
-    width: 1920px;
+    width: 2080px;
     height: 481px;
     flex-shrink: 0;
 }  
@@ -909,8 +910,8 @@ line-height: normal;
     font-style: normal;
     font-weight: 600;
     line-height: normal;
-    margin-left: 890px;
-    margin-top: -45px;
+    margin-left: 960px;
+    margin-top: -43px;
 }
 .text4line{
     color: rgba(255, 255, 255, 0.60);
@@ -920,7 +921,7 @@ line-height: normal;
     font-weight: 600;
     line-height: 200%;
     text-transform: uppercase;
-    margin-left: 480px;
+    margin-left: 550px;
 }
 .inicial{
     color: #FFF;
@@ -941,7 +942,7 @@ line-height: normal;
     font-style: normal;
     font-weight: 600;
     line-height: 150%;
-    margin-left: 620px;
+    margin-left: 700px;
     margin-top: -25px;
 }
 .finala{
@@ -962,7 +963,7 @@ line-height: normal;
     font-style: normal;
     font-weight: 400;
     line-height: normal;
-    margin-left: 335px;
+    margin-left: 410px;
     margin-top: -25px;
 
 }
@@ -974,8 +975,8 @@ line-height: normal;
     font-style: normal;
     font-weight: 400;
     line-height: 150%; 
-    margin-top: -40px;
-    margin-right: 300px;
+    margin-top: -43px;
+    margin-right: 315px;
     
 
 }
@@ -986,7 +987,7 @@ line-height: normal;
     font-style: normal;
     font-weight: 600;
     line-height: 150%;
-    margin-left: 1090px;
+    margin-left: 1165px;
     margin-top: -25px;
 
 }
@@ -1297,7 +1298,7 @@ line-height: normal;
 
 
 .nota10{
-    width: 1918px;
+    width: 2080px;
     height: 717px;
     flex-shrink: 0;
     background: url(../img/bg-contasPedro\ 1.png);
@@ -1311,8 +1312,9 @@ line-height: normal;
     border-radius: 60px;
     background: linear-gradient(90deg, #D91149 23.53%, #4F1941 99.97%);
     margin-top: -1200px;
-    margin-left: 800px;}
-    .entre-em-contato-text{
+    margin-left: 800px;
+}
+ .entre-em-contato-text{
     color: #FFF;
      font-family: Libre Franklin;
     font-size: 20px;
@@ -1630,6 +1632,228 @@ line-height: normal;
     margin-top: -350px;
     margin-left: 1756px;
 }
+.fotos5{
+    width: 318.502px;
+    height: 350px;
+    flex-shrink: 0;
+    opacity: 0.5;
+    background: linear-gradient(180deg, rgba(0, 2, 11, 0.00) 31.23%, #00020B 131.35%), url(../img/Zillo.png), lightgray 50% / cover no-repeat;
+    margin-top: -350px;
+    margin-left: 480px;
+}
+.fotos6{
+    width: 320.498px;
+    height: 350px;
+    flex-shrink: 0;
+    opacity: 0.5;
+    background: linear-gradient(180deg, rgba(0, 2, 11, 0.00) 31.23%, #00020B 131.35%), url(../img/Sobral.png), lightgray 50% / cover no-repeat;
+    margin-top: -350px;
+    margin-left: 160px;
+}
+.entre-em-contato-3{
+    display: inline-flex;
+    padding: 15px 30px;
+    justify-content: center;
+    align-items: center;
+    gap: 35px;
+    border-radius: 60px;
+    background: linear-gradient(90deg, #D91149 23.53%, #4F1941 99.97%);
+    margin-top: 125px;
+    margin-left: 800px;
+}
+.entre-em-contato-3-text{
+    color: #FFF;
+    font-family: Libre Franklin;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 150%; 
+    text-transform: uppercase;
+}
+.fundos7{
+    background:#000;
+    width: 2080px;
+    height: 1920px;
+}
+.svg2{
+    width: 960px;
+    height: 719px;
+    flex-shrink: 0;
+    fill: linear-gradient(0deg, #4F1941 -10.43%, rgba(79, 25, 65, 0.00) 115.51%);
+    opacity: 0.7;
+    margin: 0 auto;
+    margin-top: 150px;
+}
+.box-call{
+    width: 387px;
+    height: 373px;
+    flex-shrink: 0;
+    border-radius: 15px;
+    background: rgba(255, 255, 255, 0.75);
+    backdrop-filter: blur(10px);
+    margin-top: -500px;
+    margin-left: 400px;
+}
+.box-2gather{
+    width: 387px;
+    height: 373px;
+    flex-shrink: 0;
+    border-radius: 15px;
+    background: rgba(255, 255, 255, 0.75);
+    backdrop-filter: blur(10px);
+    margin-left: 900px;
+    margin-top: -370px;
+}
+.box-parceria{
+    width: 387px;
+    height: 373px;
+    flex-shrink: 0;
+    border-radius: 15px;
+    background: rgba(255, 255, 255, 0.75);
+    backdrop-filter: blur(10px);
+    margin-left: 1400px;
+    margin-top: -369px;
+}
+.titulo-call{
+    width: 298px;
+    height: 34px;
+    flex-shrink: 0;
+    color: #D91149;
+    font-family: Libre Franklin;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 150%; 
+    display: flex   ;
+ 
+    margin-left: 130px;
+    margin-top: 200px;
+}
+.text-call{
+    color: #000;
+    font-family: Libre Franklin;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 500;
+     line-height: 150%; 
+     width: 298px;
+    height: 204px;
+    flex-shrink: 0;
+    margin-top: 100px;
+    margin-left: 80px;
+}
+.text-call-2{
+    color: #000;
+    font-family: Libre Franklin;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 250%;
+    margin-top: -135px;
+    margin-left: 80px;
+}
+.text-call-3{
+    color: #D91149;
+    font-family: Libre Franklin;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 250%;
+    margin-left: 80px;
+}
+.titulo-2gather{
+    width: 298px;
+    height: 34px;
+    flex-shrink: 0;
+    color: #D91149;
+    font-family: Libre Franklin;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 150%; 
+    margin: 0 auto;
+}
+.text-2gather{
+    color: #000;
+    font-family: Libre Franklin;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 250%;
+    width: 298px;
+    height: 204px;
+    flex-shrink: 0;
+    margin-left: 45px;
+    margin-top: 90px;
+}
+.text-2gahter-vermelho{
+    color: #D91149;
+    font-family: Libre Franklin;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 250%;
+    width: 298px;
+    height: 204px;
+    flex-shrink: 0;
+    margin-left: 45px;
+    margin-top: -30px;
+}
+.titulo-pareceria{
+    color: #D91149;
+    font-family: Libre Franklin;
+    font-size: 30px;
+    font-style: normal;
+     font-weight: 600;
+    line-height: 150%; 
+    width: 298px;
+    height: 34px;
+    flex-shrink: 0;
+    margin: 0 auto;
+}
+.text-parceria{
+    
+    color: #000;
+    font-family: Libre Franklin;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%; 
+    margin-top: 90px ;
+}
+.backgroud2{
+    width: 2080px;
+    height: 815px;
+    flex-shrink: 0;
+    background: url(../img/bgPedroF\ 11.png), lightgray 50% / cover no-repeat;
+    margin-top: 1300px;
+}
+.text-finalizacao{
+    width: 508px;
+    height: 99px;
+    flex-shrink: 0;
+    color: #FFF;
+    font-family: Libre Franklin;
+    font-size: 38px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    margin-top: -800px;
+    margin-left: 800px;
+}
+.text-finalizacao-vermelho{
+    width: 508px;
+    height: 99px;
+    flex-shrink: 0;
+    color: #D91149;
+    font-family: Libre Franklin;
+    font-size: 38px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+
 
    
 
