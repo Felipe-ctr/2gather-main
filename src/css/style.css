@@ -1838,8 +1838,8 @@ line-height: normal;
     font-style: normal;
     font-weight: 600;
     line-height: normal;
-    margin-top: -800px;
-    margin-left: 800px;
+    margin-top: -600px;
+    margin-left: 1450px;
 }
 .text-finalizacao-vermelho{
     width: 508px;
@@ -1851,7 +1851,80 @@ line-height: normal;
     font-style: normal;
     font-weight: 600;
     line-height: normal;
+    margin-left: 1450px;
+    margin-top: -30px;
 }
+.finalizacao-2{
+    width: 508px;
+    height: 468px;
+    flex-shrink: 0;
+    color: #FFF;
+    font-family: Libre Franklin;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px; 
+    margin-left: 1450px;
+    margin-top: -40px;
+}
+.fundos8{
+    width: 2080px;
+    height: 155px;
+    flex-shrink: 0;
+    background: var(--Roxo, #120414);
+}
+.loguinho-svg{
+    width: 80.603px;
+    height: 80px;
+    flex-shrink: 0;
+    margin-top: 40px;
+    margin-left: 100px;
+}
+.text-loguinho{
+    color: #FFF;
+    font-family: Libre Franklin;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-left: 350px;
+    margin-top: -50px;
+}
+.text-final{
+    color: #FFF;
+    font-family: Libre Franklin;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-left: 850px;
+    margin-top: -17px;
+}
+.youtube{
+    width: 35.714px;
+    height: 25px;
+    flex-shrink: 0;
+    fill: #FFF;
+    margin-left: 1200px;
+    margin-top: -30px;
+}
+.instagram{
+    width: 35.714px;
+    height: 25px;
+    flex-shrink: 0;
+    fill: #FFF;
+    margin-left: 1350px;
+    margin-top: -30px;
+}
+.linkedin{
+    width: 35.714px;
+    height: 25px;
+    flex-shrink: 0;
+    fill: #FFF;
+    margin-left: 1270px;
+    margin-top:-40px;
+}
+
 
 
 
